@@ -32,7 +32,7 @@
   "scripts": {
     "start": "microbundle watch",
     "build": "microbundle",
-    "publish": "npm publish"
+    "publish": "yarn build && npm publish"
   },
   "devDependencies": {
     "@types/react": "^18.2.45",
