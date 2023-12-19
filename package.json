@@ -1,7 +1,7 @@
 {
   "name": "@rewardup-inc/digital-card",
   "amdName": "@rewardup-inc/digital-card",
-  "version": "2.0.0-beta03",
+  "version": "2.0.0-beta04",
   "description": "React component for RewardUp digital card preview",
   "source": "src/index.tsx",
   "main": "dist/rewardup-digital-card.js",
@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "@types/react": "^18.2.45",
-    "@types/react-dom": "^18.2.17",
+    "@types/react-dom": "^18.2.18",
     "@types/styled-components": "^5.1.34",
     "microbundle": "^0.15.1"
   },
