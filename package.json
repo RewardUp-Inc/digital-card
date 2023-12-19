@@ -1,7 +1,7 @@
 {
   "name": "@rewardup-inc/digital-card",
   "amdName": "@rewardup-inc/digital-card",
-  "version": "2.0.0-beta05",
+  "version": "2.0.0-beta06",
   "description": "React component for RewardUp digital card preview",
   "source": "src/index.tsx",
   "main": "dist/rewardup-digital-card.js",
@@ -31,7 +31,8 @@
   "homepage": "https://github.com/rewardup-inc/digital-card#readme",
   "scripts": {
     "start": "microbundle watch",
-    "build": "microbundle"
+    "build": "microbundle",
+    "publish": "npm publish"
   },
   "devDependencies": {
     "@types/react": "^18.2.45",
